@@ -1,0 +1,8 @@
+# outputs/
+!outputs/xgb_truck_model.pkl
+!outputs/scaler.pk__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.xlsx
+outputs/
+
